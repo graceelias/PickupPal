@@ -4,3 +4,6 @@ Group project intended to let users post items that they are leaving out on the 
 
 Group project has been completed, this is a fork of the initial project meant for individual later updates. 
 
+Check out the following link for Figma design!
+https://www.figma.com/design/dSP6I0FTP7OndZlfd9EkPv/Material-3-Design-Kit-(Community)?node-id=11-1833&t=aj4BeD6cL2n7gdcc-1 
+
